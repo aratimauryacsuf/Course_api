@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jan 20 00:40:50 PST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018d-2607-9d44-00000c3c7720 
+on database directory memory:C:\Users\arati\OneDrive\Desktop\Arati\SpringBoot_Project\Course_api\fbccb0f1-0327-4564-8b0b-a6444a6c5404 with class loader org.springframework.boot.loader.LaunchedURLClassLoader@cc285f4 
+Loaded from jar:file:/C:/Users/arati/OneDrive/Desktop/Arati/SpringBoot_Project/Course_api/target/Course_api.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.18+9-LTS-195
+user.dir=C:\Users\arati\OneDrive\Desktop\Arati\SpringBoot_Project\Course_api
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
